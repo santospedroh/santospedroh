@@ -3,8 +3,8 @@
 
 I'm learning at the moment **DevOps, Cloud, Python**
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santospedroh&theme=blue-green">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santospedroh&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api?username=santospedroh&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santospedroh&theme=blue-green">
 </div>
 
 ## 🚀 Skills
