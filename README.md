@@ -3,7 +3,7 @@
 ## ⚡ GitHub Stats
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santospedroh&theme=darcula">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santospedroh&layout=compact&theme=darcula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santospedroh&theme=darcula">
 </div>
 
 ## 🚀 Skills
