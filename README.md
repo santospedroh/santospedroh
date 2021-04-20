@@ -3,7 +3,7 @@
 ## ⚡ GitHub Stats
 <div>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=santospedroh&theme=blue-green">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santospedroh&theme=blue-green">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santospedroh&layout=compact&theme=blue-green">
 </div>
 
 ## 🚀 Skills
