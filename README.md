@@ -1,7 +1,6 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Pedro</h1>
 
-
-I'm learning at the moment **DevOps, Cloud, Python**
+## ⚡ GitHub Stats
 <div>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=santospedroh&theme=blue-green">
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santospedroh&theme=blue-green">
@@ -23,7 +22,7 @@ I'm learning at the moment **DevOps, Cloud, Python**
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 
-## ⚡ GitHub Stats
+## 📱 Social medias
 <div>
   <a href = "mailto: santos.pedroh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/santospedroh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
