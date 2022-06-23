@@ -1,4 +1,7 @@
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="11px">, I am Pedro</h1>
+
+## Welcome to my Github!
+
+Hi, I am Pedro! 😊✌🏼
 
 ## ⚡ GitHub Stats
 <div>
