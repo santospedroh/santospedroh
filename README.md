@@ -10,6 +10,7 @@ Hi, I am Pedro! 😊✌🏼
 </div>
 
 ## 📒 Blog Posts
+- [Raspberry Pi como runner do GitHub Action](https://dev.to/santospedroh/raspberry-pi-como-runner-do-github-action-596h)
 - [Descobrindo os custos da sua infraestrutura utilizando Infracost](https://dev.to/santospedroh/descobrindo-os-custos-da-sua-infraestrutura-utilizando-infracost-23a5)
 - [Pipeline IaC com Terraform e GitHub Actions](https://dev.to/santospedroh/pipeline-iac-com-terraform-e-github-actions-k3p)
 - [Databases Migrations](https://dev.to/santospedroh/databases-migrations-58g9)
